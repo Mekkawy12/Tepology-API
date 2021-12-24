@@ -8,7 +8,6 @@ const e = require('express');
 class API{
     constructor(){
         this.topologies=[];
-        console.log("T: "+this.topologies);
        
     }
     

@@ -1,4 +1,4 @@
-# Tepology API
+# Topology API
 
 This is a topology library API, in here I used express so you can make calls to it. If you don't want to use the default port 8080 assign an enviroment variable called PORT like this ---> export PORT=8888
 
